@@ -10,4 +10,4 @@ flat, on the other hand, has designed and is evolving to better serve popular SB
 flat's mission is inspiring and encouraging creative people to more focus on their ultimate goals than wasting time in search of, let's say, an optimal LAMP stack for collecting sensor data repeating install&configure 100+ times throughout their lives.
 flat believes, by applying the powerful and proven container technology docker has built upon, we can help SBC community to achieve more than ever.
 
-![flat](http://host.wednus.com/flat/flat.png)
+![flat](http://host.wednus.com/flat/flat.png#1)
