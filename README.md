@@ -14,3 +14,6 @@ flat believes, by applying the powerful and proven container technology docker h
 Follow the instruction at https://github.com/pipcc/getflat.
 
 ![flat](http://host.wednus.com/flat/flat.png#1)
+
+# How to Use
+Visit http://flat.wednus.com
