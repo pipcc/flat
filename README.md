@@ -16,4 +16,4 @@ Follow the instruction at https://github.com/pipcc/getflat.
 ![flat](http://host.wednus.com/flat/flat.png#1)
 
 # How to Use
-Visit http://flat.wednus.com
+Visit http://flat.wednus.com for instructions.
